@@ -1,0 +1,4 @@
+logs/
+.env.bak
+.env
+test.jpg
