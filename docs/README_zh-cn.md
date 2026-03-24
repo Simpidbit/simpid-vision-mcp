@@ -101,4 +101,4 @@ analyse_image("/absolute/path/to/image.png")
 
 ## 许可证
 
-如果你准备公开分发这个项目，建议补充 `LICENSE` 文件。
+本项目基于 MIT License 开源，详见 `LICENSE`。
